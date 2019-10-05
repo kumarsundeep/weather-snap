@@ -1,6 +1,6 @@
-# Weather Snapshot: Forecasting weather of cities
+# Weather Snapshot
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.1.1.
+Forecasting weather of cities. Angular6.1.1 based.
 
 ## Development server
 
